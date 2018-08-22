@@ -166,7 +166,7 @@ SELECT LOWER(<value or column>) FROM <table>;
 
 ## Create Excerpts with Substring
 
-To create smaller strings from larger piece of text you can use the `SUBSTR()` funciton or the substring function.
+To create smaller strings from larger piece of text you can use the `SUBSTR()` function or the substring function.
 
 
 ```
